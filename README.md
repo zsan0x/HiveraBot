@@ -72,14 +72,11 @@
 ## 📱 Running on Termux
 
 ```bash
-# Install the bot
 git clone https://github.com/zsan0x/HiveraBot
 cd HiveraBot
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Start the bot
+nano config.json
+nano auth_data.txt
 python main.py
 ```
 
