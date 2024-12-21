@@ -1,0 +1,3 @@
+username:password@ip:port
+
+only use http proxies
