@@ -77,6 +77,7 @@ cd HiveraBot
 pip install -r requirements.txt
 nano config.json
 nano auth_data.txt
+nano proxies.txt
 python main.py
 ```
 
